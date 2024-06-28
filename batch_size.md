@@ -1,4 +1,4 @@
-3.	The batch sizes are specified in the following table:
+The batch sizes are specified in the following table:
 
 | Model | Beauty | Gowalla | Yelp2018 | Pinterest |
 |-------|--------|---------|----------|-----------|
@@ -8,7 +8,8 @@
 
 For DAU, we follow the setting of the original paper.
 
-We also provide how the batch size affects the performance on the Amazon-Beauty dataset.
+
+We also provide how the batch size affects SCCF performance on the Amazon-Beauty dataset.
 
 | Batch size | Recall@20 | NDCG@20 |
 |------------|-----------|---------|
