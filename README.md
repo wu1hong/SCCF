@@ -16,10 +16,11 @@ python run_recbole.py --model=SCCF --dataset=pinterest --learning_rate=10 --enco
 ```
 For more detail, please refer to our paper. If you like our work, please cite
 ```
-@article{wu2024unifying,
+@inproceedings{wu2024unifying,
   title={Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering},
   author={Wu, Yihong and Zhang, Le and Mo, Fengran and Zhu, Tianyu and Ma, Weizhi and Nie, Jian-Yun},
-  journal={arXiv preprint arXiv:2406.13996},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3425--3436},
   year={2024}
 }
 ```
